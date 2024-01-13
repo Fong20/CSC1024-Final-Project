@@ -1,0 +1,21 @@
+9781785785719,Yasha Levine,Surveillance Valley,Icon Books,Politics,2019,02-01-2020,read
+9780241976630,John Maeda,How to Speak Machine,Portfolio UK,Artificial Intelligence,2019,02-01-2020,to-read
+9781119055808,Andre De Vries,R For Dummies,John Wiley,Programming,2015,12-08-2016,read
+9780062018205,Dan Ariely,Predictably Irrational,Harper Collins,Psychology,2010,03-06-2019,read
+9780008327613,John Walsh,The Globalist,Harper Collins,Biography & Autobiography,2019,11-05-2021,to-read
+9780525538349,John Doerr,Measure What Matters,Penguin LCC,Management,2018,21-09-2022,to-read
+9780807092156,Viktor Frankl,Man's Search for Meaning,Random House,Philosophy,2019,30-08-2021,to-read
+9780136803201,Triola,Elementary statistics 14th edition annotated instructor's edition,Pearson,Computer Mathematics,2022,30-11-2022,read
+9781412991346,Warner,Applied statistics:from bivariate through multivariate techniques 2nd ed.,SAGE Publications,Computer Mathematics,2013,15-03-2017,read
+9780789751980,Perry,C programming:absolute beginner's guide 3rd ed.,Que,Programming,2014,11-05-2016,to-read
+9789814272704,Cheah,English for mass communication:a workbook for university students,Cengage Learning,English,2009,01-03-2014,read
+9780321563842,Stroustrup,The C++ programming language Fourth edition,Pearson,Programming,2013,25-01-2014,to-read
+9781292420103,Stallings,Computer organization and architecture:designing for performance 11th ed,Pearson,Computer Organization,2022,21-09-2023,read
+9781260085341,Camp,College English and business communication,McGraw,English,2019,14-02-2022,to-read
+9780521702997,Remacha Esteras,Infotech:English for computer users 4th ed,Cambridge University Press,English,2008,25-12-2013,read
+9780357675533,Farrell,Java programming,Cengage Learning,Programming,2023,05-09-2023,read
+9781641131971,Robert Gerver,Write On! Math: Note Taking Strategies That Increase Understanding and Achievement 3rd Edition,Information Age Publishing,Mathematics,2018,03-11-2020,read
+9781441171900,French,Science:Key Concepts in Philosophy,Bloomsbury Publishing Plc,Science,2007,28-03-2016,to-read
+9781784288693,Urwin,Artificial intelligence:the quest for the ultimate thinking machine,Arcturus Publishing Ltd.,Science,2017,13-08-2019,read
+9781260597738,Kamien,Music an appreciation,McGraw-Hill Education,Music,2022,23-12-2022,to-read
+
