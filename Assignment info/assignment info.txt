@@ -1,0 +1,13 @@
+Development of a personal book management system using Python
+can copy the sample in books_Student but must be at least 20 books
+-display options
+-add book records
+-delete book records (would you like to delete other book records?)
+-update/edit book records (would you like to update/edit more books?)
+-search for books (would you like to search more books?)
+-exit system
+GUI is not required for the display
+Use list to store all the data
+exception handling is required
+text file shall only be opened at the beginning of the system and closed at the exit of the system.
+It shall not be opened or closed for deleting/updating/editing/searching for books.
